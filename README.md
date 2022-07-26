@@ -8,8 +8,8 @@ This password generator will create random passwords based on criteria that the 
 ![screenshot](/Assets/screenshot.PNG)
 
 # Link
-* GitHub Repository: 
-* Webpage: 
+* GitHub Repository: https://github.com/GraceShim/Password-Generator.git
+* Webpage: https://graceshim.github.io/Password-Generator/
 
 # Author
 * Grace D. Shim https://github.com/GraceShim
